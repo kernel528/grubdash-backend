@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "jest": "^29.7.0",
-    "nodemon": "^2.0.4",
+    "nodemon": "^3.1.14",
     "supertest": "^5.0.0"
   },
   "allowScripts": {
